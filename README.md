@@ -14,9 +14,9 @@ Simple Text editor like windows Notepad 10 &amp; additional functionalities incl
 10. All Controls set with Shortcut
 
 ## ScreenShots
-[1](https://i.imgur.com/qGTnmQT.png)
-[2](https://i.imgur.com/rOhGDmw.png)
-[3](https://i.imgur.com/EUM8DZL.png)
+!(https://i.imgur.com/qGTnmQT.png)
+!(https://i.imgur.com/rOhGDmw.png)
+!(https://i.imgur.com/EUM8DZL.png)
 
 ## Project Info
 * [Developer] - Farhan Ellahi
