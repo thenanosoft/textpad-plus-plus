@@ -1,0 +1,14 @@
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\Textpad++.csprojAssemblyReference.cache
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormGoToLine.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.Main.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormAbout.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormFind.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormReplace.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\Textpad++.csproj.GenerateResource.cache
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\Textpad++.csproj.CoreCompileInputs.cache
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.pdb

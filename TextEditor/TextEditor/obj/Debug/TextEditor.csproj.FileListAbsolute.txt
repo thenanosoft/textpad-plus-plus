@@ -1,0 +1,41 @@
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.FormFind.resources
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.FormReplace.resources
+C:\Users\Farhan Ellahi\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.FormAbout.resources
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormAbout.resources
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormFind.resources
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormReplace.resources
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.Main.resources
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormGoToLine.resources
+X:\Projects\My_Project\C#\On_Working_Project\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormGoToLine.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.Main.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormAbout.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormFind.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.FormReplace.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+X:\Projects\My_Project\C#\Done_Project\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
