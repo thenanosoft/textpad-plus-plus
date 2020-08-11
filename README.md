@@ -1,5 +1,5 @@
 # textpad-plus-plus
-Simple Text editor like windows Notepad 10 &amp; additional functionalities included.
+Simple Text editor like windows 10 Notepad &amp; additional functionalities included.
 
 ## Functionality
 1. All Functionality Include Windows 10 Notepad
